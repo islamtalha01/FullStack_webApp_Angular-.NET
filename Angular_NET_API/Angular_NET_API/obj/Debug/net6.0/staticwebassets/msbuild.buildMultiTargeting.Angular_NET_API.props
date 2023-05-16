@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Angular_NET_API.props" />
+</Project>
